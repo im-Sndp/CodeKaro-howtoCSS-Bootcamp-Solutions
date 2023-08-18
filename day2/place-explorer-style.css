@@ -1,0 +1,32 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.explorer-body{
+    height: 600px;
+    width: 600px;
+    margin: 10px auto;
+    position: relative;
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.details{
+    position: absolute;
+    top:120px;
+    text-align: center;
+    color: white;
+}
+
+.explore-now-btn{
+    padding: 10px 30px;
+    border: none;
+    border-radius: 20px;
+    font-weight: 700;
+}
+
+p{
+    font-size: 12px;
+}

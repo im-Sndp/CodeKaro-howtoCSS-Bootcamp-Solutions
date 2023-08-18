@@ -1,0 +1,93 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.cart-body{
+    height: 305px;
+    width: 300px;
+    margin: 10px auto;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.food-img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.food-body{
+    position: relative;
+}
+
+
+.off-banner{
+    background-color: #266FEF;
+    height: 22px;
+    width: 140px;
+    color: white;
+    padding-left: 1px;
+    position: absolute;
+    bottom: 8px;
+}
+
+.time{
+    position: absolute;
+    bottom: 8px;
+    right: 5px;
+    background-color: #F7F8F9;
+    font-size: 13px;
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: 500;
+
+}
+
+.promoted{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #a8959b;
+    color: #675e5e;
+    font-size: 12px;
+    border-radius: 5px;
+    padding-left: 10PX;
+    padding-right: 10px;
+}
+
+.cart-footer {
+    position: relative;
+    border-top: 1px solid lightgray;
+    color: #8F8F8F;
+}
+
+.resturant-name{
+    color: #242424;
+    font-weight: 600;
+}
+
+.resturant-type{
+    color: #b4b4b4;
+    font-weight: 400;
+}
+
+.footer-img{
+    position: absolute;
+    left: 0;
+    top: 15px;
+}
+
+.footer-des{
+    position: absolute;
+    right: 0;
+    width: 240px;
+    font-size: 12px;
+    top: -5px;
+}
+
+.max-safty-image{
+    height: 20px;
+}
+  
+  
+  
